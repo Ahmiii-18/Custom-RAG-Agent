@@ -1,0 +1,7 @@
+# requirements.txt
+langchain-core>=0.3
+langchain-openai>=0.2
+langchain-community>=0.3
+faiss-cpu>=1.8
+pypdf>=4.2
+pydub>=0.25.1
