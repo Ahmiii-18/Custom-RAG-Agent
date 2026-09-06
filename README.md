@@ -1,10 +1,14 @@
 # Multimodal AI RAG Agent
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://custom-rag-agent.streamlit.app/)
+[![Watch Demo](https://img.shields.io/badge/🎥_Watch_Video_Demo-Google_Drive-red.svg)](https://drive.google.com/file/d/16woJIA1t3pKcKTVUSZM3eJ5w2rfbA3xx/view?usp=sharing)
+[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An advanced retrieval-augmented generation (RAG) agent capable of indexing and querying cross-modal assets—including text documents, PDFs, high-resolution images, audio files, and video recordings—with strict factual grounding and source-level citation tracking.
 
-🚀 **Live Demo**: [custom-rag-agent.streamlit.app](https://custom-rag-agent.streamlit.app/)
+🌐 **Live Demo:** [custom-rag-agent.streamlit.app](https://custom-rag-agent.streamlit.app/)  
+🎥 **Video Walkthrough:** [Google Drive Demo](https://drive.google.com/file/d/16woJIA1t3pKcKTVUSZM3eJ5w2rfbA3xx/view?usp=sharing)
 
 ---
 
@@ -38,5 +42,5 @@ An advanced retrieval-augmented generation (RAG) agent capable of indexing and q
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/](https://github.com/)<Ahmiii-18>/custom-rag-agent.git
+   git clone [https://github.com/Ahmiii-18/custom-rag-agent.git](https://github.com/Ahmiii-18/custom-rag-agent.git)
    cd custom-rag-agent
